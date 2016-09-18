@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8595055B350A6303E3C4722BC33B4AB36F3BB0A5" : 0,
+    "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A7149B41-05B6-44E9-9A7B-6F8A16F0263B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8595055B350A6303E3C4722BC33B4AB36F3BB0A5" : "",
+    "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA" : "swift-dictionaryBillOrSteve-lab-ios-0916\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BillOrSteve",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BillOrSteve.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:MichelleBKlynn\/swift-dictionaryMethods-lab-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8595055B350A6303E3C4722BC33B4AB36F3BB0A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:MichelleBKlynn\/swift-dictionaryBillOrSteve-lab-ios-0916.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2792281ACBD6C99B9A9C8462AB46E27ACECE1DA"
+    }
+  ]
+}
